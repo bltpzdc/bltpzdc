@@ -20,8 +20,17 @@
   <img src="https://media.giphy.com/media/cNYfqnu9chOKjitMfC/giphy.gif" width="600" height="300"/>
 </div>
 
+---
 
+### :man_technologist: About Me :
+I am a 3rd grade student 👨‍🎓 of ITMO University, Saint Petersburg, Russia
+- :telescope: I am studying in the direction of computer science and computer engineering.
 
+- :seedling: Шmproving my ылшдды in software and system development.
+
+- :zap: In my free time, I solve problems on LeetCode and read tech books.
+
+---
 
 
 
